@@ -3,4 +3,4 @@
 
 目录下文件夹表示第几册书
 
-文件名 `1R2.md` 表示 Test 1 Reading Passage 2
+文件名 `T1RP2.md` 表示 Test 1 Reading Passage 2
